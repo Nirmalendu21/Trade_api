@@ -4,8 +4,3 @@ pydantic==2.6.2
 requests==2.32.0
 python-dotenv==1.0.0
 
-After creating requirements.txt, run this command in your terminal to install everything:
-
-pip install -r requirements.txt
-
-This will install FastAPI, Uvicorn, Pydantic, Requests, and Python-Dotenv, which are all the packages your project needs to run.
