@@ -3,5 +3,5 @@ uvicorn==0.22.0
 pydantic==1.10.12
 requests==2.32.0
 python-dotenv==1.0.0
-duckduckgo_search==3.10.2
+duckduckgo_search==8.1.1
 
