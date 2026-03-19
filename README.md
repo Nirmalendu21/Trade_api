@@ -73,6 +73,3 @@ Example Response:
 ✅ This is a complete, beginner-friendly `README.md`.  
 It explains **what the project is, how to install dependencies, run the API, and use the endpoints**.  
 
-If you want, I can also **write a tiny `.env` example** so your `x-api-key` isn’t hardcoded in `main.py`, which is safer for production.  
-
-Do you want me to do that?
